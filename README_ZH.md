@@ -16,6 +16,22 @@
 - **成长机制：** 类似海克斯强化 / 斗魂竞技场符文选择的随机天赋系统
 - **目标体验：** 每一局都能形成不同的武技、法术、诅咒或混合流派构筑
 
+## 概念图
+
+早期地府界域与视觉方向概念图存放在 `art/concepts/realms/`。
+
+### 地狱守卫
+
+![地狱守卫概念图](art/concepts/realms/地狱守卫概念图_Underworld_Warden_Concept_Sheet.png)
+
+### 地狱之门
+
+![地狱之门](art/concepts/realms/地狱之门_Gate_of_the_Underworld.png)
+
+### 炼狱战场
+
+![炼狱战场](art/concepts/realms/炼狱战场_Infernal_Arena.png)
+
 ## 技术栈
 
 - **引擎：** Godot Engine 4.6.2

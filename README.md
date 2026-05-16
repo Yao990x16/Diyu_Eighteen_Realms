@@ -16,6 +16,22 @@ Players descend through the Eighteen Realms of Diyu, surviving waves of cursed s
 - **Progression Hook:** Random talent augmentations inspired by Hextech / Arena rune selection systems
 - **Target Experience:** A replayable combat sandbox where each run creates a different martial, mystical, or cursed build path
 
+## Concept Art
+
+Early realm and underworld visual direction is stored under `art/concepts/realms/`.
+
+### Underworld Warden
+
+![Underworld Warden Concept Sheet](art/concepts/realms/地狱守卫概念图_Underworld_Warden_Concept_Sheet.png)
+
+### Gate of the Underworld
+
+![Gate of the Underworld](art/concepts/realms/地狱之门_Gate_of_the_Underworld.png)
+
+### Infernal Arena
+
+![Infernal Arena](art/concepts/realms/炼狱战场_Infernal_Arena.png)
+
 ## Tech Stack
 
 - **Engine:** Godot Engine 4.6.2
