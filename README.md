@@ -2,6 +2,8 @@
 
 **地府：十八重界**
 
+[中文说明](README_ZH.md) | English
+
 `Diyu: Eighteen Realms` is a high-octane 2D Action Roguelite set in a dark fantasy reinterpretation of the Chinese Buddhist and Taoist underworld. The game blends fast top-down combat, escalating enemy pressure, and random build-defining talent choices inspired by League of Legends Arena-style augment systems.
 
 Players descend through the Eighteen Realms of Diyu, surviving waves of cursed spirits, infernal wardens, and mythic punishments while assembling powerful combat builds through randomized augment selections.
